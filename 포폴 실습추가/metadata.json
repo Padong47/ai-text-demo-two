@@ -1,0 +1,6 @@
+{
+  "name": "Data Engineering Portfolio",
+  "description": "지저분한 데이터를 깔끔하게 전처리하고 안정적인 파이프라인을 구축하는 주니어 데이터 엔지니어의 개인 포트폴리오 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
